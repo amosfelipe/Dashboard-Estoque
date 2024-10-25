@@ -2,7 +2,7 @@ Projeto feito para analisar o controle de estoque.
 * Foi usaddo DAX para fazer alguma medidas.
 * Figma para fazer a tela de fundo.
 
-Consiguimos concluir que
+Conseguimos concluir que
  - Atualmete temos 5 Lojas
  - A loja que teve um faturamento mais alto foi a Botafogo Praia Shopping (R$ 1,51 Mi)
  - A loja Norte Shopping tem maior valor disponivel em estoque (31,95%)
